@@ -9,8 +9,8 @@ int main(int argc, char *argv[])
 	printf("Ingrese otro numero a multiplicar ");
 	scanf("%d",&n1);
 
-	for (i=1;i<=num1;i++){
-	resu=num;
+	for (i=1;i<=n1;i++){
+	resu=n;
 	acu=acu+resu;
 	}
 	printf("El resultado es %d",acu);
