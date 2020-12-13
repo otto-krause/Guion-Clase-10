@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include<conio.h>
 
-int main(void) {
+int main(void) 
+{
 	int i,dni,birdei,ch=0,cm=0,dtr=0;
 	float me=0,ct1=0,ed,pme;
 	char sx;
