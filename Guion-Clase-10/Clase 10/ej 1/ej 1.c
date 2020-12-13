@@ -3,7 +3,8 @@
 #include <string.h>
 #include<conio.h>
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[])
+ {
 	int i,x,nt;
 	char nm[20],mvp[100],ma[100];
 	for (i=1;i<16;i++){
