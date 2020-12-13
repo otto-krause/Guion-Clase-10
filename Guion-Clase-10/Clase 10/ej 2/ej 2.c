@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 
 	printf("Ingrese un anio ");
 	scanf("%d",&year);
-	while (y>0) {
+	while (year>0) {
 		printf("\n Ingrese un mes ");
 		scanf("%d",&mes);
 		while((mes<=12)&&(mes>=1)) {
