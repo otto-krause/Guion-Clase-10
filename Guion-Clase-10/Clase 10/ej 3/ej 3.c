@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) 
+{
 	int fct,ctd,pouo,nmp,pmv,mi,vt;
 	printf("\n Ingrese el numero de factura ");
 	scanf("%d",&fct);
