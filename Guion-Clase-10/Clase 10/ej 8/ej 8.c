@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main(int argc, char** argv) {
+int main(int argc, char** argv)
+ {
 	int i,n,n1,ac;
 	printf("Ingrese un numero ");
 	scanf("%d",&n);
