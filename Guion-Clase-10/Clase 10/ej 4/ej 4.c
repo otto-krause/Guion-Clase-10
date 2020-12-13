@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) 
+{
 	int i,tpa=0,si=0,ci;
 	float pg,pgc,pc,acu,n=1,cont=1,nt=0,nottp,mvp;
 	for (i=1;i<51;i++){
