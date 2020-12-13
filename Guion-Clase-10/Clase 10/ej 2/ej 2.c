@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) 
+{
 	int mes,dia,year,a;
 
 	printf("Ingrese un anio ");
